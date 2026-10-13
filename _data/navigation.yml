@@ -1,0 +1,15 @@
+# the masthead
+main:
+  - title: "Home"
+    url: /
+  - title: "Curriculum Vitae"
+    url: /assets/docs/CV.pdf
+    target: "_blank"
+  - title: "Blog Posts"
+    url: /portfolio/
+  - title: "Links"
+    url: /links/
+  - title: "Contact"
+    url: /contact/
+  # - title: "Blog"
+  #   url: /blog/
