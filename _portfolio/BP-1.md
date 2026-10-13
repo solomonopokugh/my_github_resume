@@ -1,11 +1,11 @@
 ## Prompt
-> Write a short post about something you did this week: what happened, what you learned, and what you'd do next time.
+> I am PhD economics student at northern Illinois University. My research area are financial economics and health economics.
 
 ---
 
 ## What I did
 
-This week I led the Huskies out of the tunnel at **Huskie Stadium** for the home opener. It was my first game of the season, so I spent the week rehearsing a new entrance with the NIU cheer team.
+This week I led the Huskies out of the tunnel at **Huskie Stadium** for the homecoming game. It was my first game of the season, so I spent the week rehearsing a new entrance with the NIU cheer team.
 
 ## What I learned
 
