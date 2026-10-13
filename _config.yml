@@ -4,7 +4,7 @@ title: "Solomon Opoku"
 name: "Solomon Opoku's Portfolio in Jekyll"
 email: 
 url: "https://solomonopokugh.github.io"
-baseurl: "/jekyll-resume-template"
+baseurl: "/my_github_resume"
 repository: "solomonopokugh/my_github_resume"
 header:
   image: /assets/images/banner-husky.jpg
