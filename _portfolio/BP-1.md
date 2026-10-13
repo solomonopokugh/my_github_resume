@@ -5,7 +5,7 @@
 
 ## What I did
 
-This week I led the Huskies out of the tunnel at **Huskie Stadium** for the homecoming game. It was my first game of the season, so I spent the week rehearsing a new entrance with the NIU cheer team.
+I installed Julia programming and started learning the besic. which will be use for my dissertation for financial economics.
 
 ## What I learned
 
